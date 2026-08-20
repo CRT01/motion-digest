@@ -1,7 +1,7 @@
 # motion-digest
 
-Weekday collection of **product/UI motion** resources: agent skills, components, libraries, and design-philosophy posts.
+Weekday product/UI motion digest.
 
-Lane: Emil Kowalski / anti-cheap-AI product motion. Not After Effects mograph.
+Readable site: https://crt01.github.io/motion-digest/
 
-- `digests/YYYY-MM-DD.md` — one file per weekday run (Asia/Shanghai date)
+Source lives in this repo. Each weekday file is under digests/.

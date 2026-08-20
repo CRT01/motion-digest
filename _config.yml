@@ -1,0 +1,6 @@
+title: motion-digest
+description: Weekday product/UI motion digest
+theme: jekyll-theme-primer
+url: https://crt01.github.io
+baseurl: /motion-digest
+markdown: kramdown
