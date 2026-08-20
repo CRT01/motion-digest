@@ -1,6 +1,7 @@
-title: motion-digest
-description: Weekday product/UI motion digest
+title: 动效日报
+description: 工作日产品/UI 动效资源简报
 theme: jekyll-theme-primer
 url: https://crt01.github.io
 baseurl: /motion-digest
 markdown: kramdown
+lang: zh-CN

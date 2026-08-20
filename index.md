@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Home
+title: 首页
 ---
 
-# motion-digest
+# 动效日报
 
-Weekday collection of product/UI motion skills, components, and design philosophy.
+工作日收集产品/UI 动效相关的 skill、组件、库和设计哲学。英文来源会读完再译成中文。
 
-## Digests
+## 简报
 
-- [2026-08-20](digests/2026-08-20.html) — seed list with read-through briefs
+- [2026-08-20](digests/2026-08-20.html) — 种子清单，已通读并翻译

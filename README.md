@@ -1,7 +1,7 @@
-# motion-digest
+# 动效日报
 
-Weekday product/UI motion digest.
+工作日产品/UI 动效简报。
 
-Readable site: https://crt01.github.io/motion-digest/
+阅读站：https://crt01.github.io/motion-digest/
 
-Source lives in this repo. Each weekday file is under digests/.
+源文件在本仓库。每天一篇在 digests/ 目录。正文为简体中文，英文资料会翻译。
