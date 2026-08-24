@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-08-24](digests/2026-08-24.html) — 只写规格的 design-motion skill
 - [2026-08-21](digests/2026-08-21.html) — Emil 三透镜审查、场景配方库、Motion UI 组件
 - [2026-08-20](digests/2026-08-20.html) — 种子清单，已通读并翻译
 
