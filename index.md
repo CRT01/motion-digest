@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-08-31](digests/2026-08-31.html) — View Transition 配方 + 出片边界
 - [2026-08-27](digests/2026-08-27.html) — IPedrax 补上引擎无关的手感层
 - [2026-08-25](digests/2026-08-25.html) — 进场揭示合同 entrance-motion
 - [2026-08-24](digests/2026-08-24.html) — 只写规格的 design-motion skill
