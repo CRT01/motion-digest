@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-09-09](digests/2026-09-09.html) — 交互选型词条库 + 反廉价感动效门禁 + Codex 雪碧动画 + Figma Orbit
 - [2026-09-07](digests/2026-09-07.html) — Motion 手感语言包 Dynamization + Rive 出片 skill + UI 录屏测量 Keepframe
 - [2026-09-04](digests/2026-09-04.html) — 已上线动效审计 + 落地页动效门禁与分幕脚本
 - [2026-09-02](digests/2026-09-02.html) — mblode ui-animation：滚动门禁 + 廉价感症状表
