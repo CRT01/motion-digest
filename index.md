@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-09-15](digests/2026-09-15.html) — Detent 墙面试样 Bezel + H5 Motion token 库 Mova + 硬件感控件图鉴 + Astra 动效章
 - [2026-09-14](digests/2026-09-14.html) — 跨端弹簧 Detent + 现有界面过渡 bera/ui + 核验版 M3 动效章 + Compose spring/tween 出品规则
 - [2026-09-11](digests/2026-09-11.html) — Seenry 录屏取证动效 + Codex motion-core 三透镜
 - [2026-09-10](digests/2026-09-10.html) — Emil 动画四件套 + ultrapolish 打磨法 + Motion 弹簧 token 组件库
