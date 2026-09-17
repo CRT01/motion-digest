@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-09-17](digests/2026-09-17.html) — Motion AnimateView 开源进主包 + mblode 正向调参与滑动手势修正
 - [2026-09-16](digests/2026-09-16.html) — 实测动效配方 df-design + 真机拆站 teardown + live URL 运动取证 ui-clone
 - [2026-09-15](digests/2026-09-15.html) — Detent 墙面试样 Bezel + H5 Motion token 库 Mova + 硬件感控件图鉴 + Astra 动效章
 - [2026-09-14](digests/2026-09-14.html) — 跨端弹簧 Detent + 现有界面过渡 bera/ui + 核验版 M3 动效章 + Compose spring/tween 出品规则
