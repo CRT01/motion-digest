@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-09-21](digests/2026-09-21.html) — ui-interaction-kit 新手势反馈 + 质感组件两章（78 词条）
 - [2026-09-18](digests/2026-09-18.html) — Emil mobile-native 真机手感层 + motion-ui-skill 扩到 339
 - [2026-09-17](digests/2026-09-17.html) — Motion AnimateView 开源进主包 + mblode 正向调参与滑动手势修正
 - [2026-09-16](digests/2026-09-16.html) — 实测动效配方 df-design + 真机拆站 teardown + live URL 运动取证 ui-clone
