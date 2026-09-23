@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-09-23](digests/2026-09-23.html) — Motion Studio 时间轴编辑 + stealth motion 门禁 + design-motion 可复现反模式
 - [2026-09-22](digests/2026-09-22.html) — Kineto 功能契约动效库 + atelier/motion 探索透镜 + ram 选区框
 - [2026-09-21](digests/2026-09-21.html) — ui-interaction-kit 新手势反馈 + 质感组件两章（78 词条）
 - [2026-09-18](digests/2026-09-18.html) — Emil mobile-native 真机手感层 + motion-ui-skill 扩到 339
