@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-09-30](digests/2026-09-30.html) — genjutsu 交互 thesis + tells 反廉价感 + Orchestrator 编排 Emil Animate + Kobra 阻尼 Lightbox
 - [2026-09-29](digests/2026-09-29.html) — design-studio 频率门禁 + Animation Handbook 129 + 交互成本章 + MicroKit + Motion 13.4.5
 - [2026-09-28](digests/2026-09-28.html) — better-design 动效语言 + AlphaXe 弹簧/即时反馈/图标（96）+ M3 Expressive MotionScheme
 - [2026-09-25](digests/2026-09-25.html) — 频率门禁 all-in-motion + 四技能品味包 + mocubix 滚动词库 + LGMDS 导航胶囊
