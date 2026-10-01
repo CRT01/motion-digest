@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-10-01](digests/2026-10-01.html) — web-motion 选型表 + awesome-ai-motion 产品演示配方 + Motion 13.4.7 + Fluid Functionalism 弹簧/流体悬停
 - [2026-09-30](digests/2026-09-30.html) — genjutsu 交互 thesis + tells 反廉价感 + Orchestrator 编排 Emil Animate + Kobra 阻尼 Lightbox
 - [2026-09-29](digests/2026-09-29.html) — design-studio 频率门禁 + Animation Handbook 129 + 交互成本章 + MicroKit + Motion 13.4.5
 - [2026-09-28](digests/2026-09-28.html) — better-design 动效语言 + AlphaXe 弹簧/即时反馈/图标（96）+ M3 Expressive MotionScheme
