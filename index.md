@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-10-06](digests/2026-10-06.html) — Apple 弹簧速度交接与阻尼比换算 + anti-slop MOTION 档位 + Bencho 微交互时长 + 玻璃胶囊顶栏弹簧积分
 - [2026-10-05](digests/2026-10-05.html) — Figma Motion 动画样式入库 + Lottie 导出 + View Transitions 静默失败清单 + 引导场景节拍表 + motion-ui 可中断弹簧 + 整站双向揭示 + Motion 14
 - [2026-10-02](digests/2026-10-02.html) — Motion 13.5 负 bounce 过阻尼 + ShowMotion 动作名词库 + 滚动站实测 Playbook + growcore GSAP token 组件
 - [2026-10-01](digests/2026-10-01.html) — web-motion 选型表 + awesome-ai-motion 产品演示配方 + Motion 13.4.7 + Fluid Functionalism 弹簧/流体悬停
