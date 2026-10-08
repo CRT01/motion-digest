@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-10-08](digests/2026-10-08.html) — Compose 双弹簧果冻指示条 + noah-motion 闭式弹簧 + ui-motion 反廉价清单 + 小程序 WXS 质感组件 + Murmuration 动词定动效
 - [2026-10-07](digests/2026-10-07.html) — M3 Expressive 网页弹簧体系 + frontend-craft 浮层时间表 + Motionbook 复刻集 + 12 个实测 GSAP 动效 + 六步动效工作流 + Emil《Friction as a Feature》
 - [2026-10-06](digests/2026-10-06.html) — Apple 弹簧速度交接与阻尼比换算 + anti-slop MOTION 档位 + Bencho 微交互时长 + 玻璃胶囊顶栏弹簧积分
 - [2026-10-05](digests/2026-10-05.html) — Figma Motion 动画样式入库 + Lottie 导出 + View Transitions 静默失败清单 + 引导场景节拍表 + motion-ui 可中断弹簧 + 整站双向揭示 + Motion 14
