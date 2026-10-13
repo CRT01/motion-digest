@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-10-13](digests/2026-10-13.html) — 手艺优先动效大 skill + 35 站实测反廉价动效 + 九目录前端动效选型矩阵
 - [2026-10-12](digests/2026-10-12.html) — Emil 掉帧诊断 skill + Motion 14.1 animateLayout 进主包 + 越大越慢/越远越长体感规则
 - [2026-10-09](digests/2026-10-09.html) — 产品动效决策 use/reduce/no + 流体界面十条物理原则 + CSS linear() 动效 token + 跨端微交互百科 + 60fps/微交互菜谱包
 - [2026-10-08](digests/2026-10-08.html) — Compose 双弹簧果冻指示条 + noah-motion 闭式弹簧 + ui-motion 反廉价清单 + 小程序 WXS 质感组件 + Murmuration 动词定动效
