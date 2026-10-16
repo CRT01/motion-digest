@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-10-16](digests/2026-10-16.html) — Motion 14.3 stagger 网格/edges/random 上 npm + Keyframery 一行 Cuts 给 shadcn + 高斯压膜底栏 + Flutter morph 空间/效果分曲线
 - [2026-10-15](digests/2026-10-15.html) — ui-motion 五道闸拦高频动画 + 中文按钮动效决策树 + kinesis 录屏验收动效合同
 - [2026-10-14](digests/2026-10-14.html) — Motion 14.2 独立变换硬件加速 + taste 反廉价盲测闸 + GSAP 反 slop 十二包 + nudg 可校验微交互格式
 - [2026-10-13](digests/2026-10-13.html) — 手艺优先动效大 skill + 35 站实测反廉价动效 + 九目录前端动效选型矩阵
