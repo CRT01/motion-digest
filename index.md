@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-10-21](digests/2026-10-21.html) — Claude Skills 配对 ui-motion（时长/缓动预算）+ web-animations（平台优先实现）+ Atlassian 代码原型验 motion
 - [2026-10-20](digests/2026-10-20.html) — Motion 14.4 原生 JS drag + 录屏对齐的 Liquid Glass 小费条 + Bencho 41 块 MIT 开源 + 可重定时的 UI 动效编辑器
 - [2026-10-19](digests/2026-10-19.html) — 落地页工作室流程 skill（帧审片环）+ Motion UI Gallery 八排布 DOM 3D 画廊 + 中文审美/商品滚动展示技能包
 - [2026-10-16](digests/2026-10-16.html) — Motion 14.3 stagger 网格/edges/random 上 npm + Keyframery 一行 Cuts 给 shadcn + 高斯压膜底栏 + Flutter morph 空间/效果分曲线
