@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-10-29](digests/2026-10-29.html) — Emil remove-animations 只删不增 + Motion 14.7 transition.out/可变时间轴 + deburr 去毛边 + visant-motion token/lint
 - [2026-10-28](digests/2026-10-28.html) — Emil AI for UI（28 skills + Lapse 审片）+ /motion 克制微交互 skill + 零依赖 CSS/TS 小动效包
 - [2026-10-23](digests/2026-10-23.html) — Motion 14.6 Reorder 键盘抓取重排 + Terra 克制 React 配方/Skills + apple-design 17 节公式实测进 bottom sheet
 - [2026-10-22](digests/2026-10-22.html) — Motion 14.5 scopeMotion/useScopeMotion（含 reduced-motion matchMedia）+ 中文 Motion Prompt 库/Skill + Time2Log 克制删动画长文
