@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-11-02](digests/2026-11-02.html) — Emil improve-animations 周末三连 + 机会扫描闸 + reverse-motion 取证规格 + 133 名词表 + RN audit-first 动效包
 - [2026-10-30](digests/2026-10-30.html) — Emil Interaction Lab 按规则日更只留喜欢的 + Motion 14.8 mixer + Morph-UI 交互/材质实验台
 - [2026-10-29](digests/2026-10-29.html) — Emil remove-animations 只删不增 + Motion 14.7 transition.out/可变时间轴 + deburr 去毛边 + visant-motion token/lint
 - [2026-10-28](digests/2026-10-28.html) — Emil AI for UI（28 skills + Lapse 审片）+ /motion 克制微交互 skill + 零依赖 CSS/TS 小动效包
