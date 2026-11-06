@@ -9,6 +9,7 @@ title: 首页
 
 ## 简报
 
+- [2026-11-06](digests/2026-11-06.html) — Quegenx 频率门闩时长表 + Codex 动效 token + mthines FLIP 规划 + PulsoIcon 独立图标动效 + Flutter 12 弹簧 + Ant Typography shimmer
 - [2026-11-05](digests/2026-11-05.html) — Emil /choreograph 多元素编排 + Motion 14.9.1 退出修复 + stagger 总时长预算 + unslop 动效章 + Android M3E×Nav3 MotionScheme
 - [2026-11-04](digests/2026-11-04.html) — Emil Interaction Lab 公开可玩 + micro-motion 终态/中断合同 + taste-motion 风格档时长 + 369 条已核验灵感库 + Liquid Glass Web 280ms 弹簧胶囊
 - [2026-11-03](digests/2026-11-03.html) — Emil 14.2+ 硬件加速修订 + mad-ux 120–180ms playground + tactile 仪表盘动效合同 + molveau 静态闸 + 中文 ui-motion 可中断验收
